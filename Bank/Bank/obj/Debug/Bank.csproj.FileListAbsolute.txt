@@ -1,0 +1,10 @@
+C:\Users\ahuli\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\ahuli\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\ahuli\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\ahuli\source\repos\Bank\Bank\obj\Debug\Bank.Bank.resources
